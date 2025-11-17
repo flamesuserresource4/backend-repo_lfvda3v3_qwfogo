@@ -1,0 +1,43 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:40640 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:40648 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40650 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40656 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40662 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40674 - "GET /plans HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40686 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40648 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40650 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40656 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40662 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40674 - "GET /plans HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40686 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59784 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59792 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59794 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59800 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59810 - "GET /plans HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59818 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59784 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59792 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59794 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59800 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59810 - "GET /plans HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59818 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41898 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41914 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41920 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41928 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41942 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41958 - "GET /plans HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41898 - "GET /photos HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41914 - "GET /photos?favorites=true HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41920 - "GET /songs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41928 - "GET /movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41942 - "GET /notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41958 - "GET /plans HTTP/1.1" 200 OK
